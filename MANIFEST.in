@@ -6,6 +6,8 @@ include docs/screenshot03.png
 include docs/screenshot04.png
 include docs/screenshot05.png
 
+include quart_rapidoc/rapidoc-min.js
+
 recursive-include example *
 
 recursive-include tests *.json
