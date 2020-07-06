@@ -1,4 +1,5 @@
 # Rapidoc for Quart
+[![Build Status](https://travis-ci.org/marirs/quart-rapidoc.svg?branch=master)](https://github.com/marirs/quart-rapidoc)
 [![GitHub license](https://img.shields.io/github/license/marirs/quart-rapidoc)](https://github.com/marirs/quart-rapidoc/blob/master/LICENSE)
 
 Create beautiful, customizable, 
