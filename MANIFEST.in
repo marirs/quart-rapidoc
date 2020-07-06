@@ -1,0 +1,13 @@
+include *.txt
+
+include docs/screenshot01.png
+include docs/screenshot02.png
+include docs/screenshot03.png
+include docs/screenshot04.png
+include docs/screenshot05.png
+
+recursive-include example *
+
+recursive-include tests *.json
+recursive-include tests *.py
+recursive-include tests *.yml
