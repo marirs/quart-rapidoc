@@ -4,5 +4,4 @@ install:
 
 tests:
 	pydocstyle quart_rapidoc
-	isort --check-only --diff --recursive flask_redoc/*.pydocstyle
 	pytest
